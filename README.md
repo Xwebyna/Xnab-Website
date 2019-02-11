@@ -1,0 +1,1 @@
+A Simple and Responsive Web Design Website with 3 pages - Home, About and Services
